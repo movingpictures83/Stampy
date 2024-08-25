@@ -1,0 +1,3 @@
+stampy: Building genome...
+stampy: Input files: ['plugins/Stampy/example///input2.fasta']
+stampy: Done

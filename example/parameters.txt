@@ -1,0 +1,2 @@
+seq1	input1.fasta
+seq2	input2.fasta

@@ -1,0 +1,2 @@
+Prefix plugins/Stampy/example/
+Plugin Stampy inputfile parameters.txt outputfile output.txt
